@@ -1,0 +1,8 @@
+/* SUBEDI RABIN M25W0465 */
+{
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
+}
